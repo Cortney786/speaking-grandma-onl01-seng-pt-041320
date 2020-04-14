@@ -15,4 +15,5 @@
 def speak_to_grandma(phrase)
   answer = "HUH? SPEAK UP, SONNY!"
   if phrase == "I LOVE YOU GRANDMA!"
+    elsif phrase == "NO, NOT SINCE 1938!"
 end
